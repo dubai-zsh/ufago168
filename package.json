@@ -9,7 +9,7 @@
     "space",
     "xkcd"
   ],
-  "repository": "https://github.com/dubai-zsh/ufaohm168",
+  "repository": "https://github.com/dubai-zsh/ufaohm168.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
