@@ -1,15 +1,22 @@
 {
-  "name": "ufaohm168",
+  "name": "ufago168",
   "main": "./index.js",
-  "version": "0.3.1",
-  "description": "Ufa Global",
+  "version": "1.0.0",
+  "description": "ufago168 ระบบอัตโนมัติ บริการตลอด 24ชั่วโมง เว็บพนันออนไลน์ บาคาร่า สล๊อค กีฬา",
+   "engines": {
+    "atom": "*"
+  },
   "keywords": [
-    "scroll",
-    "time",
-    "space",
-    "xkcd"
+    "ufa",
+    "ufabet",
+    "บาคาร่า",
+    "สล๊อต",
+    "พนันออนไลน์"
   ],
-  "repository": "https://github.com/dubai-zsh/ufaohm168.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dubai-zsh/ufago168.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
